@@ -1,0 +1,27 @@
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+.hide {
+  display: none;
+}
+
+#title {
+  color: #3e4444;
+}
+
+#chart {
+  width: 800px;
+}
+
+#tooltip {
+  color: white;
+  background-color: #3e4444;
+  border: solid, 10px, #82b74b;
+}
